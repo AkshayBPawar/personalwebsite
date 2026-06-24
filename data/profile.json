@@ -1,0 +1,157 @@
+{
+  "personal": {
+    "name": "Akshay Pawar",
+    "currentTitle": "Software Engineer",
+    "tagline": "Senior software engineer focused on enterprise applications, delivery leadership, and scalable .NET and Angular solutions.",
+    "summary": "In my 7+ years of software engineering, I've evolved from an intern to a seasoned professional, specializing in team leadership and domain-driven project delivery.",
+    "experienceYears": "7+ years",
+    "location": "Pune, India 411057",
+    "resumeUrl": "./resume.pdf"
+  },
+  "highlights": [
+    "Specialized in C#, JavaScript, Angular, .NET Core, ASP.NET, and database-driven application delivery.",
+    "Experienced in enterprise portal development, merchant services, legacy system integration, and CI/CD modernization.",
+    "Collaborative engineer with a strong record of cross-functional delivery, architecture discussions, and production support."
+  ],
+  "skills": {
+    "Backend": [
+      "C#",
+      ".NET Core",
+      "ASP.NET",
+      "MVC 5",
+      "Web API",
+      "VB.NET"
+    ],
+    "Frontend": [
+      "JavaScript",
+      "Angular 11",
+      "jQuery"
+    ],
+    "Cloud": [
+      "Azure"
+    ],
+    "Databases": [
+      "SQL Server",
+      "Oracle 11g"
+    ],
+    "DevOps": [
+      "Jenkins",
+      "TeamCity",
+      "uDeploy",
+      "CI/CD"
+    ],
+    "Tools": [
+      "Postman",
+      "SQL Developer",
+      "SSMS",
+      "PowerShell",
+      "Sitefinity",
+      "Git",
+      "Bitbucket",
+      "TFS"
+    ],
+    "AI": [
+      "TODO: No AI-specific skills were listed in the provided resume."
+    ]
+  },
+  "experience": [
+    {
+      "company": "Worldline Global Services India",
+      "role": "Consultant - Delivery",
+      "period": "Aug 2024 - Current",
+      "location": "Pune",
+      "responsibilities": [
+        "Spearhead the development and maintenance of enterprise-grade merchant service portals using .NET Core and Angular.",
+        "Collaborate with cross-functional teams to analyze requirements and deliver secure, scalable, and high-performance solutions.",
+        "Participate in architecture discussions, code reviews, and agile ceremonies to ensure timely and quality delivery.",
+        "Troubleshoot production issues and implement enhancements aligned with business goals."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Citicorp Services India",
+      "role": "Officer [ Apps Dev Programmer Analyst ]",
+      "period": "Oct 2023 - Aug 2024",
+      "location": "Pune",
+      "responsibilities": [
+        "Played a pivotal role in the Equities and Warrants Development Team, ensuring seamless integration of legacy systems.",
+        "Implemented modern CI/CD practices and streamlined software delivery using TeamCity and uDeploy.",
+        "Adhered to agile methodologies for efficient development processes."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Nitor Infotech",
+      "role": "Senior Software Engineer",
+      "period": "Apr 2021 - Oct 2023",
+      "location": "Pune",
+      "responsibilities": [
+        "Contributed to diverse projects across finance, media, and cutting-edge technologies, including implementations with Angular and Azure.",
+        "Demonstrated adaptability and innovation in projects like SMAI, leveraging advanced technologies for efficient data processing."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Semantic Technologies Pvt. Ltd.",
+      "role": "Senior Software Engineer",
+      "period": "Jul 2018 - Apr 2021",
+      "location": "Pune",
+      "responsibilities": [
+        "Led pivotal projects like Croptech and MyBenefits360 in the insurance domain, overseeing end-to-end development.",
+        "Collaborated closely with cross-functional teams and managed client relationships, ensuring seamless integration and successful onboarding of prestigious clients."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "TODO: Project details were not explicitly listed in the provided resume.",
+      "description": "The provided resume does not include named projects or outcomes beyond role-based responsibilities. This section remains intentionally placeholder-ready for future updates.",
+      "technologies": [
+        "TODO"
+      ],
+      "outcomes": [
+        "TODO: Add resume-backed project names, technologies, and outcomes here."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor In Computer Science",
+      "institution": "Dr. Daulatrao Aher College of Engineering - Karad",
+      "period": "Feb 2015 - Feb 2018"
+    },
+    {
+      "degree": "Diploma In Computer Science",
+      "institution": "Satara Polytechnic Satara - Karad",
+      "period": "Feb 2012 - Feb 2015"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TODO: No certifications were listed in the provided resume.",
+      "issuer": "N/A"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "TODO: No awards or explicit recognition were listed in the provided resume.",
+      "description": "This section is ready for future updates if the resume includes additional accomplishments."
+    }
+  ],
+  "summary": "Professional summary from the resume: In my 7+ years of software engineering, I've evolved from an intern to a seasoned professional, specializing in team leadership and domain-driven project delivery.",
+  "contact": {
+    "email": "pawarakshay474@gmail.com",
+    "linkedin": {
+      "label": "akshay-pawar-056493154",
+      "href": "https://www.linkedin.com/in/akshay-pawar-056493154"
+    },
+    "github": {
+      "label": "TODO: Add GitHub profile URL.",
+      "href": "#"
+    },
+    "phone": "+91 9834917115",
+    "location": "Pune, India 411057",
+    "mapsHref": "https://www.google.com/maps/search/?api=1&query=Pune%2C+India"
+  }
+}
